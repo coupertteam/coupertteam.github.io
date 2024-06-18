@@ -1,0 +1,75 @@
+[Adblock Plus 1.0]
+! Title: Coupert Shopping
+! Expires: 2 days (update frequency)
+! Homepage: https://www.coupert.com/
+! Coupert Web
+@@||coupert.com*$document
+@@||coupert.com*$elemhide
+!
+! Cash Back Trackers
+@@||coupert.com^
+@@||coupert.com^$~third-party
+! Tag Managers
+@@||tealium.com^
+@@||bluekai.com^
+@@||tiqcdn.com^
+@@||thebrighttag.com^
+@@||ensighten.com^
+@@||tealeaf.com^
+@@||bluehost.com^
+@@||btstatic.com^
+@@!!googletagmanager.com^
+! Affiliate Networks
+! CJ
+@@||www.qksrv.net^
+@@||www.jdoqocy.com^
+@@||www.kqzyfj.com^
+@@||www.dpbolvw.net^
+@@||www.tkqlhce.com^
+@@||www.anrdoezrs.net^
+@@||www.commission-junction.com^
+@@||emjcd.com^
+@@||dotomi.com^
+@@||cj.com^
+!
+@@||linksynergy.com^
+@@||linkconnector.com
+! PJ
+@@||www.pntrs.com^
+@@||www.gopjn.com^
+@@||www.pntra.com^
+@@||www.pjtra.com^
+@@||www.pjatr.com^
+@@||www.pntrac.com^
+@@||aos.prf.hn^
+@@||prf.hn^
+@@||pepperjamnetwork.com^
+! Impact
+@@||rrmo.net^
+@@||uqzq.net^
+@@||uisv.net^
+@@||jtlo.net^
+@@||pxf.io^
+@@||7eer.net^
+@@||ojrq.net^
+@@||evyy.net^
+@@||sjv.io^
+!
+@@||shareasale.com^
+@@||avantlink.com^
+@@||www.awin1.com^
+@@||tradedoubler.com^
+@@||t.cfjump.com^
+@@||images.revtrax.com^
+@@||affiliatefuture.com^
+@@||dtrk5.com^
+@@||rover.ebay.com^
+@@||www.bluenile.ca^
+@@||www.avantlink.ca^
+@@||www.frontgate.com^
+@@||www.bluenile.com^
+@@||www.groupon.com^
+@@||rover.ebay.com^
+@@||ebay.com^
+@@||go.redirectingat.com^
+@@||www.bestbuy.com^
