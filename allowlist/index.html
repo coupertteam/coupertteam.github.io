@@ -1,27 +1,31 @@
-
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Coupert Allowlist</title>
+    <title>Coupert Whitelist</title>
+    <link rel="stylesheet" href="./index.css">
 </head>
-<body id="Coupert">
-  <div class="content">
-    <div class="headerText title2">
-      An ad blocker may be blocking your rewards
+
+<body id="coupert">
+    <div class="content">
+        <div class="img-box">
+            <img src="https://www.coupert.com/img/coupert-block.png" />
+        </div>
+        <div class="headerText">
+            Whitelist Coupert for Ad Blockers
+        </div>
+        <div class="subText">
+            Certain ad blocker settings prevent us from communicating with the store where you made your transaction. Add Coupert to your whitelist to earn Cash Back.
+        </div>
+        <a class="button"
+            href="abp:subscribe?location=https://coupertscience.github.io/allowlist/coupert-smart-shopping.txt&title=Coupert-Smart-Shopping"
+            id="whitelistButton" onmousedown="buttonClick()">
+            Add Coupert to Whitelist
+        </a>
+        <a class="learnMore" href="https://help.coupert.com/getting-started/what-is-coupert/" target="_blank">Learn more on blockers.</a>
     </div>
-    <div class="subText body3">
-      Your settings may be keeping you from earning rewards that you can redeem for <span class="redemption-copy">gift cards</span>. Add us to your allowlist to earn rewards.
     </div>
-    <a
-      class="button title1"
-      href="abp:subscribe?location=https://coupertteam.github.io/allowlist/coupert-shopping.txt&title=Coupert-Smart-Shopping"
-      id="whitelistButton"
-      onmousedown="buttonClick()"
-    >
-      Add Coupert to Allowlist
-    </a>
-    </div>
-  </div>
-  <script async src="script.min.js"></script>
+    <script async src="./outer.min.js"></script>
 </body>
+
 </html>
