@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'Poppins';
-    src: url("https://s3.us-west-2.amazonaws.com/img.soarapi.com/cp/img/Poppins-Regular.ttf");
+    src: url("https://ublock-plugin.coupert.com/cp/img/Poppins-Regular.ttf");
     font-weight: 400;
     font-display: swap
 }
 
 @font-face {
     font-family: 'Poppins';
-    src: url("https://s3.us-west-2.amazonaws.com/img.soarapi.com/cp/img/Poppins-Medium.ttf");
+    src: url("https://ublock-plugin.coupert.com/cp/img/Poppins-Medium.ttf");
     font-weight: 500;
     font-display: swap
 }
 
 @font-face {
     font-family: 'Poppins';
-    src: url("https://s3.us-west-2.amazonaws.com/img.soarapi.com/cp/img/Poppins-SemiBold.ttf");
+    src: url("https://ublock-plugin.coupert.com/cp/img/Poppins-SemiBold.ttf");
     font-weight: 600;
     font-display: swap
 }
